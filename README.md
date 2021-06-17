@@ -1,7 +1,20 @@
 ## RI4WebSci
 
-Python scripts to support a paper submitted to RI4WebSci workshop
+This repository contains the scripts and data to support the Sounding out the system paper that was presented at the RI4WebSci workshop collocated with Web Science 2021. 
 
-## author
+The scripts here create MIDI files from CSV files. They are all contained in the Jupyter notebook.
 
-Iain Emsley <i.emsley@sussex.ac.uk>
+The MIDI files were recomposed by Alan Chamberlain into a piece of music: Unseen in Sound https://thealanchamberlain.bandcamp.com/track/unseen-in-sound
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/iaine/RI4WebSci/HEAD)
+
+## Authors
+
+Code and data:  Iain Emsley <i.emsley@sussex.ac.uk>
+
+Music:  Alan Chamberlain 
+
+## Citation
+
+Emsley, Iain and Chamberlain, Alan (2021) Sounding out the system: multidisciplinary web science platforms for creative sonification. WebSci'21 Workshop on Research Infrastructure for Web Science (RI4WebSci), Virtual, 21 - 22 Jun 2021. Published in: ACM WebSci21 proceedings. ACM (Accepted) 
+https://sro.sussex.ac.uk/id/eprint/99378/
