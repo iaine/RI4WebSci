@@ -6,6 +6,8 @@ The scripts here create MIDI files from CSV files. They are all contained in the
 
 The MIDI files were recomposed by Alan Chamberlain into a piece of music: Unseen in Sound https://thealanchamberlain.bandcamp.com/track/unseen-in-sound
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/iaine/RI4WebSci/HEAD)
+
 ## Authors
 
 Code and data:  Iain Emsley <i.emsley@sussex.ac.uk>
