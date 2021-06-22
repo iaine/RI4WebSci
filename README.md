@@ -4,6 +4,9 @@ This repository contains the scripts and data to support the Sounding out the sy
 
 The scripts here create MIDI files from CSV files. They are all contained in the Jupyter notebook.
 
+A sonification was created from the MIDI files, using GarageBand, and saved as MP3s here. The files are discussed at:
+(https://austgate.co.uk/2021/06/an-introduction-to-sounding-out-the-system/)[https://austgate.co.uk/2021/06/an-introduction-to-sounding-out-the-system/]
+
 The MIDI files were recomposed by Alan Chamberlain into a piece of music: Unseen in Sound https://thealanchamberlain.bandcamp.com/track/unseen-in-sound
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/iaine/RI4WebSci/HEAD)
